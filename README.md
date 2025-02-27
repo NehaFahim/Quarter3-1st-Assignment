@@ -53,3 +53,30 @@ Python has reserved words that **cannot** be used as variable names.
 
 python datatypes.py
 python keywords.py
+
+
+
+
+# Google Colab: Introduction and Overview
+
+## Description
+
+Google Colab (short for Colaboratory) is a free, cloud-based platform provided by Google that allows you to write and execute Python code in a Jupyter notebook environment. It’s widely used for machine learning, data analysis, and research, as it offers the ability to run Python code on Google’s cloud infrastructure without requiring any installation.
+
+## Key Features
+
+- **Cloud-based**: No installation required, you can run notebooks directly in the cloud.
+- **Free Access to GPUs/TPUs**: It provides access to hardware accelerators (like GPUs and TPUs) for free, which is very useful for deep learning projects.
+- **Jupyter Notebook Interface**: Google Colab is built on top of the Jupyter notebook, allowing you to combine code, visualizations, and markdown text in one document.
+- **Collaboration**: You can share your notebooks with others, similar to Google Docs, and collaborate in real time.
+- **Integration with Google Drive**: You can save, open, and share your notebooks directly from your Google Drive account.
+- **Easy to Use**: It’s beginner-friendly and doesn’t require complex setup or local resources.
+
+## How to Use Google Colab
+
+1. **Access**: Go to Google Colab and sign in with your Google account.
+2. **Create a New Notebook**: You can start a new notebook by clicking "File" → "New Notebook."
+3. **Write Code**: Write Python code in the cells and press Shift + Enter to execute it.
+4. **Add Text**: You can add descriptive text using markdown by selecting a cell type as "Text."
+5. **Save Notebooks**: Colab automatically saves your notebooks to Google Drive.
+6. **Share**: Use the "Share" button in the top-right corner to share your notebooks with others.
